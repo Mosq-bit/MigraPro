@@ -558,7 +558,7 @@ img {
 }
 
 .hero__inner {
-  background: url("/images/hero.png");
+  background: url("/MigraPro/images/hero.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1268,3 +1268,4 @@ legend {
   transform: translateY(-5px);
   box-shadow: 0 8px 24px rgba(0,0,0,0.1);
 } */
+
