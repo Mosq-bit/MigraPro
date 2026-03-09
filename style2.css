@@ -818,6 +818,7 @@ img {
 @media (max-width: 768px) {
   .info__cards {
     gap: 20px;
+    flex-wrap: wrap;
   }
 
   .info__card {
@@ -1271,6 +1272,7 @@ legend {
   transform: translateY(-5px);
   box-shadow: 0 8px 24px rgba(0,0,0,0.1);
 } */
+
 
 
 
